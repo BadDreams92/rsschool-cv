@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: aquamarine;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3053f3;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: "Lato", "Arial", sans-serif;
+  text-align: center;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #3053f3;
+}
+.header__img {
+  margin: 1rem 0;
+  border: 1px solid antiquewhite;
+  border-radius: 50%;
+  box-shadow: 0 0 20px antiquewhite;
+}
+.header__title {
+  font-size: 40px;
+  color: antiquewhite;
+}
+
+.header__status {
+  font-weight: 700;
+  font-size: 2rem;
+  color: #ffffff;
+}
+.main {
+  padding: 1rem;
+  background-color: rgb(196, 196, 196);
+}
+section {
+  margin-bottom: 2rem;
+}
+.skills-section {
+  display: flex;
+  flex-direction: column;
+}
+.skills-section__list,
+.experience-section__list {
+  list-style-type: none;
+}
+.summary-section__title,
+.skills-section__title,
+.example-section__title,
+.experience-section__title,
+.education-section__title,
+.english-section__title {
+  margin-bottom: 1rem;
+}
+.skills-section__list-item,
+.experience-section__list-item {
+  margin-bottom: 0.5rem;
+}
+.summary-section__description,
+.example-section__description,
+.education-section__description,
+.english-section__description,
+.skills-section__list-item,
+.experience-section__list-item {
+  font-size: 1.25rem;
+  color: #3d3d3d;
+}
+.skills-section__skill,
+.experience-section__list-item_important,
+.education-section__property,
+.english-section__level {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #000000;
+}
+.experience-section__list-item_important,
+.education-section__property,
+.english-section__level {
+  color: #1f1f1f;
+}
+
+footer {
+  padding: 10px;
+  color: antiquewhite;
+  background-color: #3053f3;
+}
+
+.contacts-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: baseline;
+  margin: 1rem;
+  list-style-type: none;
+  font-size: 1.75rem;
+}
+.contacts-list__item {
+  margin: 0.25rem;
+}
+.contacts-list__title {
+  margin: 0;
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  img {
+    max-width: 150px;
+  }
+  .contacts-list {
+    flex-direction: column;
+  }
+}
