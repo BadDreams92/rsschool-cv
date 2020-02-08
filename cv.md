@@ -6,3 +6,12 @@
 * > **E-mail**: sanya1025@mail.ru;
 * > **GitHub**: [BadDreams92](https://github.com/BadDreams92);
 * > **Telegram**: @BadDreams92;
+## 2. Summary
+Working on Truck Service for 8 years as an automechaniс. I would like to learn programming and become Front-End developer in the future.
+ Interested in learning **HTML,CSS,JS**
+## 3. Skills
+* **HTML** - *basic knowledge*
+* **CSS** - *basic knowledge*
+* **Know almost everything about trucks and automobiles**
+## 4. Code Example :
+  _Not yet_ 
