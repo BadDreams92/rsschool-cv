@@ -15,3 +15,19 @@ Working on Truck Service for 8 years as an automechaniс. I would like to learn 
 * **Know almost everything about trucks and automobiles**
 ## 4. Code Example :
   _Not yet_ 
+## 5. Experience
+* BelTransLine 
+
+  Worked as an automechanic for 7 years (2010-2018)
+
+* OOO "RAISING"
+  
+  Work as an service-master (2018-....)
+  
+## 6. Education
+ **Belarussian National Technical University** , 
+ 
+ Faculty - **Internal Combustion Engines**
+ ## 7. English
+  
+  *Pre-Intermediate* - **A2**
